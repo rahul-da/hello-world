@@ -1,2 +1,2 @@
 # hello-world
-First depositry
+I am a student. :-)
